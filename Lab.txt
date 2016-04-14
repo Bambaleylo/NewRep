@@ -11,7 +11,7 @@ namespace L1
         static void Main(string[] args)
         {
             string s1; int a;
-            string s2; int b;
+            string s2; int b; //я изменил твой код!!
             int s;
             Console.WriteLine("¬ведите 2 числа");
             s1 = Console.ReadLine();
